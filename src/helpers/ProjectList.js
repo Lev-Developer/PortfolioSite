@@ -14,7 +14,7 @@ const projects = [
     title: 'My portfolio site',
     skills: "React, JavaScript, NodeJS, Apache",
     img: project08,
-    gitHubLink:'https://github.com/Lev-Developer/pizza-site.git'
+    gitHubLink:'https://github.com/Lev-Developer/PortfolioSite.git'
   },
   {
     title: "Courses market",
@@ -26,7 +26,7 @@ const projects = [
     title: "Market",
     skills: "React, NodeJS, Typescript, API, Tailwind",
     img: project07,
-    gitHubLink:'https://github.com'
+    gitHubLink:'https://github.com/Lev-Developer/Market.git'
   },
   {
     title: "My site",
