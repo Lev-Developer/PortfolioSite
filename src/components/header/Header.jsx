@@ -1,4 +1,5 @@
 import "./style.css";
+import { NavLink } from "react-router-dom";
 
 export function Header() {
   return (
@@ -14,9 +15,9 @@ export function Header() {
         <div className="header__text">
           <p>with passion for learning and creating.</p>
         </div>
-        <a href="/cv" className="btn">
+        <NavLink to="/cv" className="btn">
           Look CV
-        </a>
+        </NavLink>
       </div>
     </header>
   );
