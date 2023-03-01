@@ -35,13 +35,13 @@ export function CvPage() {
             </div>
             <div className="w-[900px]">
               <ul className="text-xl">
-                <li>4 years programming</li>
-                <li>3 years working with Node JS</li>
-                <li>QUICK selT-motivated-learner</li>
+                <li>5 years programming</li>
+                <li>3.5 years working with Node JS</li>
+                <li>QUICK self-motivated-learner</li>
                 <li>Strong multi-generational</li>
                 <li>Communication skills</li>
                 <li>Proficient in multiole languages</li>
-                <li>speak four languages</li>
+                <li>Speak four languages</li>
                 <li>Flexible and Adaptable</li>
                 <li>Organization and Time</li>
                 <li>Management</li>
@@ -61,17 +61,18 @@ export function CvPage() {
             </div>
             <div className="w-[900px]">
               <p className=" md:text-2xl text-lg ">
-                Hardworking and passionate job seeker with strong organizational
-                skills eager to secure entry-level Node JS Developer position.
-                Ready to help team achieve company goals. Organized and
-                dependable candidate successful at managing multiple phones with
-                a posive altude. vilngness to take on add ed responsibilities to
-                meet team goals. Enthusiastic programmer eager to contribute to
-                team success through hard work, attention to detail and
-                excellent organizational skills. Clear understanding of Node JS
-                and training in programming. Motivated to learn, grow and excel
-                in web programming. Reliable employee seeking Node JS Developer
-                position. Offering excellent communication and good judgment.
+                Hardworking and passionate job seeker from Ukraine with strong
+                organizational skills eager to secure junior-middle level Node
+                JS Developer position. Ready to help team achieve company goals.
+                Organized and dependable candidate successful at managing
+                multiple phones with a posive altitude. willingness to take on
+                added responsibilities to meet team goals. Enthusiastic
+                programmer eager to contribute to team success through hard
+                work, attention to detail and excellent organizational skills.
+                Clear understanding of Node JS and training in programming.
+                Motivated to learn, grow and excel in web programming. Reliable
+                employee seeking Node JS Developer position. Offering excellent
+                communication and good judgment.
               </p>
             </div>
           </div>

@@ -16,7 +16,7 @@ export function Header() {
           <p>with passion for learning and creating.</p>
         </div>
         <NavLink to="/cv" className="btn">
-          Look CV
+          My CV
         </NavLink>
       </div>
     </header>
