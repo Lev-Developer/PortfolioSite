@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom";
+
 export function CvPage() {
   return (
     <>
@@ -151,9 +153,9 @@ export function CvPage() {
                   Created web site for company M.S. Sibley Construction
                 </p>
                 <p className="text-xl">
-                  <a className="text-blue-700" href="/projects">
+                  <NavLink className="text-blue-700" to="/projects">
                     Projects
-                  </a>
+                  </NavLink>
                 </p>
               </div>
               <div className="w-[900px] flex flex-col justify-between ">
